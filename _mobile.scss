@@ -1,0 +1,148 @@
+@media (min-width:320px) and (max-width: 767px) {
+  .social span {
+    display: none;
+  }
+  body .everything {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .subscribe {
+    display: none;
+  }
+  .topimage img {
+    position: absolute;
+    top: 2px;
+    left: 9px;
+    width: 58px;
+    height: 45px;
+    border: solid #fff 1px;
+  }
+
+  .row1 {
+    padding: 0;
+  }
+  .row2 {
+    // height: 15px;
+    // font-size: 6px;
+    margin-top: 56px;
+    display: block;
+    width: 100%;
+    // position: relative;
+    // right: -113px;
+    // top: -28px;
+  }
+  .row2 div {
+    width: 100%;
+    border-bottom: none;
+    margin-bottom: 5px;
+  }
+  form {
+    display: none;
+  }
+  .row3 {
+    width: 56%;
+    height: 134px;
+    border: solid #fff;
+    margin-top: 7px;
+    background-position: 61% 30%;
+    margin-left: 25%;
+    margin-right: 25%;
+
+  }
+  .row6 {
+    width: 100%;
+    display: inline-flex;
+    margin-top: -125px;
+        height: 203px;
+  }
+  .row6 img {
+    width: 5%;
+    height: 175px;
+
+  }
+
+  .row4 {
+    display: inline;
+  }
+  .row4 div {
+    height: 140px;
+   margin-top: 15px;
+  }
+  .row4 h3 {
+    font-size: 14px;
+  }
+  .row4 h6 {
+    font-size: 7px;
+  }
+  .row4 p {
+    font-size: 10px;
+  }
+  .row4 h4 {
+    font-size: 7px;
+  }
+  .grid img {
+    display: none;
+  }
+.row5column1 {
+  width: 50%;
+}
+.row5column2 {
+  width: 50%;
+}
+.row5 h2 {
+  display: none;
+}
+.steve img {
+  height: 175px;
+  margin-top: -35px;
+}
+.lance img {
+  height: 175px;
+}
+.rodney img {
+  height: 175px;
+}
+.tommy img {
+  height: 370px;
+}
+  .footerleft h3 {
+    font-size: 14px;
+  }
+  .footerleft p {
+    font-size: 7px;
+  }
+
+
+.article3 h6 {
+  top: 2px;
+}
+.article3 p {
+   position: relative;
+   top: -22px;
+
+
+}
+#lastarticle {
+  margin-top: -22px;
+}
+footer {
+  height: 33px;
+  width: 100%;
+background-color: 0;
+
+}
+footer .row7 {
+  display: inline-flex;
+}
+.footerleft h3 {
+  display: none;
+}
+.footerleft p {
+  display: none;
+}
+.socialfooter {
+display: flex;
+}
+
+}
