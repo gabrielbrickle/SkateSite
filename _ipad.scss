@@ -11,22 +11,13 @@
     display: none;
   }
   .topimage img {
-    position: absolute;
-    top: 2px;
-    left: 9px;
-    width: 58px;
-    height: 45px;
-    border: solid #fff 1px;
+    width: 164px;
+    height: 97px;
   }
   .row2 {
-    // height: 15px;
-    // font-size: 6px;
     display: block;
     width: 100%;
-    // position: relative;
-    // right: -113px;
-    // top: -28px;
-    margin-top: 0px;
+    margin-top: -51px;
   }
   .row2 div {
     width: 100%;
@@ -60,11 +51,14 @@
   }
 
   .row4 {
-    display: inline;
+    display: inline-flex;
+    text-align: center;
+    width: 100%;
+    margin-left: 7px;
+    margin-bottom: -94px;
   }
   .row4 div {
-    height: 140px;
-   margin-top: 15px;
+  height: 219px;
   }
   .row4 h3 {
     font-size: 14px;
@@ -74,6 +68,10 @@
   }
   .row4 p {
     font-size: 10px;
+    font-size: 10px;
+   position: relative;
+   top: 24px;
+
   }
   .row4 h4 {
     font-size: 7px;
@@ -87,27 +85,14 @@
   .footerleft p {
     font-size: 7px;
   }
-  // .half-pics img {
-  //   height: 89px;
-  //   width: 65%;
-  // }
-
 .article3 h6 {
   top: 2px;
-}
-.article3 p {
-  position: absolute;
-   bottom: -465px;
-
-}
-#lastarticle {
-      margin-top: 61px;
+  margin-bottom: 31px;
 }
 footer {
   height: 33px;
   width: 100%;
 background-color: 0;
-
 }
 footer .row7 {
   display: inline-flex;
@@ -120,6 +105,18 @@ footer .row7 {
 }
 .socialfooter {
 display: flex;
+}
+#march {
+  position: relative;
+  top: 3px;
+}
+#readmore2 {
+  position: relative;
+  top: 26px;
+}
+.article1 h4 {
+  position: relative;
+  top: 30px;
 }
 
 }

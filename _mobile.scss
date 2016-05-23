@@ -11,26 +11,17 @@
     display: none;
   }
   .topimage img {
-    position: absolute;
-    top: 2px;
-    left: 9px;
-    width: 58px;
-    height: 45px;
-    border: solid #fff 1px;
+    width: 126px;
+    height: 88px;
   }
 
   .row1 {
     padding: 0;
   }
   .row2 {
-    // height: 15px;
-    // font-size: 6px;
-    margin-top: 56px;
     display: block;
     width: 100%;
-    // position: relative;
-    // right: -113px;
-    // top: -28px;
+    margin-top: 7px;
   }
   .row2 div {
     width: 100%;
@@ -52,16 +43,12 @@
   }
   .row6 {
     width: 100%;
-    display: inline-flex;
     margin-top: -125px;
-        height: 203px;
   }
   .row6 img {
     width: 5%;
     height: 175px;
-
   }
-
   .row4 {
     display: inline;
   }
@@ -84,18 +71,22 @@
   .grid img {
     display: none;
   }
-.row5column1 {
-  width: 50%;
-}
-.row5column2 {
-  width: 50%;
-}
 .row5 h2 {
   display: none;
 }
 .steve img {
   height: 100px;
-    margin-top: -94px;
+  margin-top: -94px;
+  width: 47%;
+}
+.steve {
+  margin-left: 25px;
+  position: relative;
+  top: -28px;
+}
+.lance {
+  margin-right: 12px;
+  margin-left: 25px;
 }
 .lance img {
   height: 100px;
@@ -104,7 +95,10 @@
   height: 100px;
 }
 .tommy img {
-  height: 220px;
+  height: 100px;
+  position: relative;
+  top: -139px;
+  width: 90%;
 }
   .footerleft h3 {
     font-size: 14px;
@@ -143,6 +137,22 @@ footer .row7 {
 }
 .socialfooter {
 display: flex;
+}
+.row5 {
+  width: 100%;
+  display: inline-block;
+}
+.row5column1 {
+  width: 100%;
+}
+.halfpics {
+  width: 100%;
+    margin-bottom: 6px;
+}
+.row5column2 {
+  width: 47%;
+  float: right;
+  height: 100px;
 }
 
 }
